@@ -12,5 +12,6 @@
     "nodejs"
   ],
   "author": "Omar Medrano Sarabia <omedranosarabia@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
